@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RandomQuotes</string>
+    <string name="new_quote">New Quote</string>
+    <string name="add_new_quote_button">Add new quote button</string>
+    <string name="error_fetching_new_quote">Error fetching new quote</string>
+    <string name="offline_error_fetching_new_quote">Seems the device is offline</string>
+    <string name="date_added">Date Added: %s</string>
+</resources>
